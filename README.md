@@ -1,6 +1,6 @@
-# 🍎 MathCam – Apple Calculator Using Computer Vision
+# 🍎 AirMath - Gesture Based Air Calculator
 
-MathCam is a computer vision-based calculator that lets you draw digits in the air using hand gestures, processes the input using AI, and performs mathematical calculations—all in real time.
+AirMath is a computer vision-based calculator that lets you draw digits in the air using hand gestures, processes the input using AI, and performs mathematical calculations—all in real time.
 
 <p align="center">
   <img src="https://img.shields.io/github/license/ayush-that/Apple-Calculator-Using-Computer-Vision?style=for-the-badge">
