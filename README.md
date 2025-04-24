@@ -2,11 +2,6 @@
 
 AirMath is a computer vision-based calculator that lets you draw digits in the air using hand gestures, processes the input using AI, and performs mathematical calculations—all in real time.
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/ayush-that/Apple-Calculator-Using-Computer-Vision?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/ayush-that/Apple-Calculator-Using-Computer-Vision?style=for-the-badge">
-</p>
-
 ---
 
 ## 🚀 Tech Stack
@@ -51,7 +46,6 @@ To use AI features, you need a **Gemini API key**.
 - Generate your key via [Google AI Studio](https://makersuite.google.com/app/apikey).
 - Replace `YOUR_API_KEY` in `app.py` with your own key.
 
-> ⚠️ *Note: This project hasn't been tested with a `python-dotenv` file.*
 
 ### 5. Run the Application
 
